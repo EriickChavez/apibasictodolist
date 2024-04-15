@@ -65,3 +65,7 @@ Parámetros
 ```ts
 id: String;
 ```
+
+## License
+
+- [MIT](LICENSE)
