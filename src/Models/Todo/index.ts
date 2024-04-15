@@ -1,4 +1,11 @@
 export interface Todo {
-    id: string;
+  id: string;
+  title: string;
+  description: string;
+  completed: boolean;
 }
-export interface InputTodo {}
+export interface InputTodo {
+  title: string;
+  description: string;
+  completed: boolean;
+}
