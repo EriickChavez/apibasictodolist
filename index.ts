@@ -1,5 +1,5 @@
-import GymAppApi from "./src/api";
+import Api from "./src/api";
 
-const Api = new GymAppApi();
+const api = new Api();
 
-Api.init();
+api.init();
